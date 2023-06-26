@@ -1,5 +1,7 @@
 ### &gt; Hi there, I am Sven <img src="https://raw.githubusercontent.com/svenadlung/svenadlung/main/wave.gif" width="24px">
 
+「 I am software developer from Germany 」
+
 - 🚀 I am currently working on: **[Tiptap](https://tiptap.dev)**
 - 🎯 I am currently learning: **Flutter**
 - 🙋‍♂️ Pronouns: he/him
