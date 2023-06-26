@@ -4,11 +4,11 @@
 
 - Currently working on: **[Tiptap](https://tiptap.dev)**
 - Currently learning: **Flutter**
-- Pronouns: he/him
+- Pronouns: **he/him**
 
 🖤 OSS
 
-You can find me here:
+You can find me here: 
 [LinkedIn](https://www.linkedin.com/in/sven-adlung) • [Twitter](https://twitter.com/svenadlung)
 
 ###### 💾 EOF
