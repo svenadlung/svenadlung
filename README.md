@@ -2,11 +2,11 @@
 
 「 I am software developer from Germany 」
 
-- 🚀 I am currently working on: **[Tiptap](https://tiptap.dev)**
-- 🎯 I am currently learning: **Flutter**
-- 🙋‍♂️ Pronouns: he/him
+- Currently working on: **[Tiptap](https://tiptap.dev)**
+- Currently learning: **Flutter**
+- Pronouns: he/him
 
-❤️ OSS
+🖤 OSS
 
 You can find me here:
 [LinkedIn](https://www.linkedin.com/in/sven-adlung) • [Twitter](https://twitter.com/svenadlung)
